@@ -21,4 +21,5 @@ libtiff-dev
 libatlas-base-dev
 gfortran
 python3-numpy
-
+tesseract-ocr-hin
+fonts-indic
