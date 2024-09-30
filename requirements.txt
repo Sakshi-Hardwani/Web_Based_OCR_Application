@@ -1,3 +1,9 @@
 pytesseract
 pillow
 streamlit 
+byaldi
+qwen-vl-utils 
+flash-attn
+pdf2image
+numpy 
+opencv-python
